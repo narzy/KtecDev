@@ -1,5 +1,5 @@
 ﻿{
-	"serverType": "none",
+	"serverType": "github",
 	"gitURL": "https://github.com/narzy",
 	"gitEmail": "tim.thorpe@gmail.com",
 	"gitIsPrivateRepository": "false"
